@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b6fa88-4bf9-44af-9a74-3d29943aa6a7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Planet.java" afterPath="$PROJECT_DIR$/src/Planet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interface_for_Taras.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="planet.iws" />
@@ -67,10 +67,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Planet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Planet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="629">
+            <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interface_for_Taras.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Interface_for_Taras.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="36" selection-start="80" selection-end="80" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -105,7 +114,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -338,7 +347,11 @@
       <created>1466363210093</created>
       <updated>1466363210093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add hello world commit">
+      <created>1466363592710</created>
+      <updated>1466363592710</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -383,7 +396,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
+    <MESSAGE value="Add hello world commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add hello world commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -412,7 +426,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.4054054" vertical-offset="0" max-vertical-offset="629">
+        <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Interface_for_Taras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="36" selection-start="80" selection-end="80" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
