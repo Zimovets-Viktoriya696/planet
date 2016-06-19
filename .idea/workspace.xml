@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="29b6fa88-4bf9-44af-9a74-3d29943aa6a7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\учеба\Аспирант\проекты\planet\src\com\victoriya\zimovets\planets\.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="planet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,7 +69,7 @@
       <file leaf-file-name="HelloPlanet.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="629">
+            <state line="21" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5675676" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -373,7 +372,11 @@
       <created>1466366103673</created>
       <updated>1466366103673</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add-files-to-gitignore">
+      <created>1466369685186</created>
+      <updated>1466369685186</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,6 +393,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,7 +404,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -423,7 +426,8 @@
     <MESSAGE value="second_commit" />
     <MESSAGE value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;" />
     <MESSAGE value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;&#10;crate git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;&#10;crate git ignore" />
+    <MESSAGE value="add-files-to-gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add-files-to-gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -508,7 +512,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="629">
+        <state line="21" column="0" selection-start="443" selection-end="443" vertical-scroll-proportion="0.5675676" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
