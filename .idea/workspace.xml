@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b6fa88-4bf9-44af-9a74-3d29943aa6a7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\учеба\Аспирант\проекты\planet\src\HelloPlanet.java" afterPath="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java" />
-      <change type="MOVED" beforePath="D:\учеба\Аспирант\проекты\planet\src\Planet.java" afterPath="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java" />
     </list>
     <ignored path="planet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,10 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Planet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Planet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.13513513" vertical-offset="0" max-vertical-offset="629">
+            <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="604">
               <folding />
             </state>
           </provider>
@@ -102,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/Interface_for_Taras.java" />
         <option value="$PROJECT_DIR$/src/Planet.java" />
         <option value="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java" />
+        <option value="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore" />
       </list>
     </option>
   </component>
@@ -366,7 +375,11 @@
       <created>1466364852374</created>
       <updated>1466364852374</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;">
+      <created>1466365620725</created>
+      <updated>1466365620725</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -414,7 +427,8 @@
     <MESSAGE value="Add hello world commit" />
     <MESSAGE value="next_commit&#10;" />
     <MESSAGE value="second_commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second_commit" />
+    <MESSAGE value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -450,7 +464,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.13513513" vertical-offset="0" max-vertical-offset="629">
+        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
