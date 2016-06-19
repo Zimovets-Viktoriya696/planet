@@ -11,4 +11,9 @@ public class Planet {
        this.colour=colour;
        this.size=size;
       }
+
+    public static void main(String[] args) {
+        System.out.println("Hello Taras");
+    }
 }
+
