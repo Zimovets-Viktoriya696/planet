@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b6fa88-4bf9-44af-9a74-3d29943aa6a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\учеба\Аспирант\проекты\planet\src\com\victoriya\zimovets\planets\.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="planet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,10 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloPlanet.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="HelloPlanet.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="459">
+            <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -79,16 +79,16 @@
       <file leaf-file-name="Planet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="604">
+            <state line="1" column="0" selection-start="1" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
               <folding />
             </state>
           </provider>
@@ -111,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/Planet.java" />
         <option value="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java" />
         <option value="$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -145,8 +146,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -165,26 +164,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="planet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="planet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="planets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,11 +178,18 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="terminal" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\учеба\Аспирант\проекты\planet" />
+      <recent name="D:\учеба\Аспирант\проекты\planet\.idea" />
+      <recent name="D:\учеба\Аспирант\проекты\planet\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
@@ -379,7 +369,11 @@
       <created>1466365620725</created>
       <updated>1466365620725</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;&#10;crate git ignore">
+      <created>1466366103673</created>
+      <updated>1466366103673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,7 +390,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -407,6 +400,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -428,7 +422,8 @@
     <MESSAGE value="next_commit&#10;" />
     <MESSAGE value="second_commit" />
     <MESSAGE value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;" />
+    <MESSAGE value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;&#10;crate git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring:&#10;- Created packages hierarchy;&#10;- Renamed classes and interfaces;&#10;crate git ignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -436,21 +431,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+        <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="459">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+        <state line="1" column="0" selection-start="1" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
           <folding />
         </state>
       </provider>
@@ -464,14 +459,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="108" selection-end="108" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/victoriya/zimovets/planets/HelloPlanet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="42" selection-start="433" selection-end="433" vertical-scroll-proportion="0.45945945" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
