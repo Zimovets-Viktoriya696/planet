@@ -1,3 +1,5 @@
+package com.victoriya.zimovets.planets;
+
 /**
  * Created by Виктория on 18.06.16.
  */
