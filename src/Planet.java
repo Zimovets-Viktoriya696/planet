@@ -10,5 +10,5 @@ public class Planet {
        this.name=name;
        this.colour=colour;
        this.size=size;
-    }
+      }
 }
