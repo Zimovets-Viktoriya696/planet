@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29b6fa88-4bf9-44af-9a74-3d29943aa6a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Interface_for_Taras.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Planet.java" afterPath="$PROJECT_DIR$/src/HelloPlanet.java" />
+      <change type="MOVED" beforePath="D:\учеба\Аспирант\проекты\planet\src\Interface_for_Taras.java" afterPath="$PROJECT_DIR$/src/Planet.java" />
     </list>
     <ignored path="planet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,19 +69,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Planet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Planet.java">
+      <file leaf-file-name="HelloPlanet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HelloPlanet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+            <state line="15" column="42" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Interface_for_Taras.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Interface_for_Taras.java">
+      <file leaf-file-name="Planet.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="36" selection-start="80" selection-end="80" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
+            <state line="3" column="23" selection-start="67" selection-end="67" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
               <folding />
             </state>
           </provider>
@@ -98,6 +100,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/src/Interface_for_Taras.java" />
         <option value="$PROJECT_DIR$/src/Planet.java" />
       </list>
     </option>
@@ -351,7 +354,11 @@
       <created>1466363592710</created>
       <updated>1466363592710</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="next_commit&#10;">
+      <created>1466364313526</created>
+      <updated>1466364313526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -397,43 +404,44 @@
     </option>
     <MESSAGE value="Initial commit&#10;" />
     <MESSAGE value="Add hello world commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add hello world commit" />
+    <MESSAGE value="next_commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="next_commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="63" selection-start="201" selection-end="201" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Planet.java">
+    <entry file="file://$PROJECT_DIR$/src/HelloPlanet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+        <state line="15" column="42" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Interface_for_Taras.java">
+    <entry file="file://$PROJECT_DIR$/src/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="36" selection-start="80" selection-end="80" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
+        <state line="3" column="23" selection-start="67" selection-end="67" vertical-scroll-proportion="0.08108108" vertical-offset="0" max-vertical-offset="629">
           <folding />
         </state>
       </provider>
